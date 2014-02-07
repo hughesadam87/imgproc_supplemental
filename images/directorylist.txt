@@ -1,0 +1,22 @@
+
+LOWCONTRAST_1.tif : jan_15_13 - f1_30000_low
+
+LOWCONTRAST_2.tif : jan_15_13 - f3_30000_2
+
+LOWCONTRAST_3.tif : jan_29_13 - f4_30000_low
+
+NICE_1.tif: aug_22_12 - f1_30500 
+
+NICE_2.tif: aug_13_12 - f2_b1_100k21_high
+
+NONCIRC_DARK.tif : jan_15_13 - f2_30000_low
+
+WRAPED_1.tif : aug_6_12 - 8_b3_f4_100k3_high
+
+WRAPED_2.tif : aug_13_12 - f2_b1_50k21_high
+
+WATERSHED_1.tif : aug_6_12 - 8_b1_f3_100k_high 
+
+WATERSHED_2.tif : aug_6_12 - 8_b2_f2_100k_high
+
+WATERSHED_3.tif : jan_28_13 - f3_100000_low

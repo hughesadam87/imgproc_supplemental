@@ -6,10 +6,8 @@ Supplemental materials including ipython notebook examples to supplement image p
 Notebooks
 =========
 
-   - `Basic Operations: Primary Tutorial`_ 
-   - `Intro to Shapes`_
-   - `Intro to Grids`_
+   - `Test NB1`_ 
+   - `Test NB2`_
    
-   .. _`Basic Operations: Primary Tutorial`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/basictests.ipynb?create=1
-   .. _`Intro to Shapes`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/shapes.ipynb?create=1
-   .. _`Intro to Grids` : http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/grids.ipynb?create=1
+   .. _`Test NB1`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/examples/Notebooks/histogram_equilization.ipynb?create=1
+   .. _`Test NB2`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/examples/Notebooks/gaussian_filter.ipynb?create=1

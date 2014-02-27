@@ -4,10 +4,14 @@
     :titlesonly:
     :glob:
 
+    ./images/Test_Data/log.rst
+
 imgproc_supplemental
 ====================
 
 Supplemental materials including ipython notebook examples to supplement image processing journals.
+
+
 
 Test Images
 ==========
@@ -16,7 +20,7 @@ Test Images
 
 
 
-    images/Test_Data/log.rst
+    ./images/Test_Data/log.rst
 
     oh herror there
 

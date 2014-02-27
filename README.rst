@@ -1,3 +1,9 @@
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :titlesonly:
+    :glob:
+
 imgproc_supplemental
 ====================
 
@@ -8,11 +14,6 @@ Test Images
 
 -Version 1 test images were generated_ on 2/26/14.
 
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :titlesonly:
-    :glob:
 
 
     images/Test_Data/log.rst

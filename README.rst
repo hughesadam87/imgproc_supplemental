@@ -1,5 +1,3 @@
-.. role:: red
-
 WELCOME
 ********
 
@@ -12,6 +10,8 @@ Test Images
 -Version 1 test images were generated_ on 2/26/14.
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
+
+.. role:: red
 
 New images generated from re-running notebook :red:`will result in different images` due to the random sampling.
 

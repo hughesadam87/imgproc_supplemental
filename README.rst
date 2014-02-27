@@ -1,10 +1,10 @@
+WELCOME
+=======
+
 .. toctree::
     :maxdepth: 3
-    :numbered:
-    :titlesonly:
-    :glob:
 
-    ./images/Test_Data/log.rst
+    images/Test_Data/log.rst
 
 imgproc_supplemental
 ====================

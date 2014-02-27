@@ -9,13 +9,15 @@ Test Images
 -Version 1 test images were generated_ on 2/26/14.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :numbered:
     :titlesonly:
     :glob:
     :hidden:
 
     images/Test_Data/log.rst
+
+    oh herror there
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 

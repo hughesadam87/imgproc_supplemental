@@ -3,6 +3,14 @@ imgproc_supplemental
 
 Supplemental materials including ipython notebook examples to supplement image processing journals.
 
+Test Images
+==========
+-Version 1
+
+-Test images were generated on 2/26/14 `here`_.
+
+.. _`here`:http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb
+
 Notebooks
 =========
 

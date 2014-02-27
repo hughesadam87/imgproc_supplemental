@@ -5,11 +5,10 @@ Supplemental materials including ipython notebook examples to supplement image p
 
 Test Images
 ==========
--Version 1
 
--Test images were generated on 2/26/14 `here`_.
+-Version 1 test images were `generated`_ on 2/26/14.
 
-.. _`here`:http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb
+.. _`generated`:http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 
 Notebooks
 =========

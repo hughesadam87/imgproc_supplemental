@@ -4,7 +4,7 @@ WELCOME
 .. toctree::
     :maxdepth: 4
 
-    images/Test_Data/log.rst
+    ./images/Test_Data/log.rst
 
 imgproc_supplemental
 ====================

@@ -13,7 +13,7 @@ Test Images
     :numbered:
     :titlesonly:
     :glob:
-    :hidden:
+
 
     images/Test_Data/log.rst
 

@@ -11,9 +11,7 @@ Test Images
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 
-.. role:: red
-
-New images generated from re-running notebook :red:`**will result in different images**` due to the random sampling.
+New images generated from re-running notebook **will result in different images** due to the random sampling.
 
 
 Notebooks

@@ -1,5 +1,5 @@
 WELCOME
-=======
+********
 
 .. toctree::
     :maxdepth: 4

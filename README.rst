@@ -13,7 +13,7 @@ Test Images
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 
-**Re-running notebook will result in different images** due to the random sampling.
+**Re-running notebook will result in different images** due to the inherent random sampling.
 
 
 Notebooks

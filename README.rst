@@ -1,28 +1,13 @@
 WELCOME
 ********
 
-.. toctree::
-    :maxdepth: 4
-
-    ./images/Test_Data/log.rst
-
-imgproc_supplemental
-====================
-
 Supplemental materials including ipython notebook examples to supplement image processing journals.
-
 
 
 Test Images
 ==========
 
 -Version 1 test images were generated_ on 2/26/14.
-
-
-
-    ./images/Test_Data/log.rst
-
-    oh herror there
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 

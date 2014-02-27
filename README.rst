@@ -15,7 +15,7 @@ Test Images
     :glob:
     :hidden:
 
-    ./images/Test_Data/log.rst
+    images/Test_Data/log.rst
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 

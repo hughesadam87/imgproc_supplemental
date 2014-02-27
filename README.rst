@@ -13,7 +13,7 @@ Test Images
 
 .. role:: red
 
-New images generated from re-running notebook :red:`will result in different images` due to the random sampling.
+New images generated from re-running notebook :red:`**will result in different images**` due to the random sampling.
 
 
 Notebooks

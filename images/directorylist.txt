@@ -15,8 +15,8 @@ WRAPED_1.tif : aug_6_12 - 8_b3_f4_100k3_high
 
 WRAPED_2.tif : aug_13_12 - f2_b1_50k21_high
 
-WATERSHED_1.tif : aug_6_12 - 8_b1_f3_100k_high 
+fuzzy.tif: WATERSHED_1.tif : aug_6_12 - 8_b1_f3_100k_high 
 
-WATERSHED_2.tif : aug_6_12 - 8_b2_f2_100k_high
+thermal_drift.tif: WATERSHED_2.tif : aug_6_12 - 8_b2_f2_100k_high
 
-WATERSHED_3.tif : jan_28_13 - f3_100000_low
+thermal_drift_2.tif: WATERSHED_3.tif : jan_28_13 - f3_100000_low

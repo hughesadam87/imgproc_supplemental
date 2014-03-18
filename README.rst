@@ -14,7 +14,7 @@ Test Images
 **Re-running notebook will result in different images** due to the inherent random sampling.
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
-.. _`(go to folder)`_ : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
+.. _`(go to folder)` : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
 
 
 Notebooks
@@ -23,10 +23,10 @@ Notebooks
 Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation
 
 - `Digitization Error`_ 
-- `Test NB2`_
+- `Quantifying Segmentation Errors Between Two Binary Images`_
   
-.. _`Test NB1`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
-.. _`Test NB2`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/gaussian_filter.ipynb?create=1
+.. _`Digitization Error`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
+.. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
 
 Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling
 

@@ -7,7 +7,7 @@ Supplemental materials including ipython notebook examples to supplement image p
 Test Images
 ==========
 
-**Version 1 `go to folder`_**:
+**Version 1** (`go to folder`_):
 
  - test images were generated_ on 2/26/14.
 

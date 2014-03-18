@@ -7,14 +7,14 @@ Supplemental materials including ipython notebook examples to supplement image p
 Test Images
 ==========
 
-**Version 1 `(go to folder)`_**:
+**Version 1 `go to folder`_**:
 
  - test images were generated_ on 2/26/14.
 
 **Re-running notebook will result in different images** due to the inherent random sampling.
 
 .. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
-.. _`(go to folder)` : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
+.. _`go to folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
 
 
 Notebooks

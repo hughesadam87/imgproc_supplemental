@@ -6,20 +6,23 @@ http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/notebook
 
 import os.path as op
 import skimage.io as io
+import pyparty.utils as putls
+from functools import partial
 
-def load_test_image(basename, version=1):
-    """ Import test image rfrom ../images/Test_Data/Vesrion1"""
+IMGDIR = '../images'
 
-    RELPATH =  '../images/Test_Data/Version1'
-    if version == 1:
-        relpath = op.join(RELPATH, basename)
-    else:
-        raise AttributeError("Only Version1 Images are available.")
-    return io.imread(relpath)
+def load_test_image(basename, relpath = 'Test_Data/Version1', crop=None):
+    """ Import test image relative to ../images/relpath"""
 
-def SEM_test_images(version=1):
-    if version != 1:
-        raise AttributeError("Only Version1 Images are available.")
+    fullrelpath = op.join(IMGDIR, relpath)
+    path = op.join(fullrelpath, basename)
+    img = io.imread(path)
+    if crop:
+        cropper = partial(putls.crop, coords=crop)
+        img = cropper(img)
+    return img
+
+def SEM_test_images(crop=None):
     lTi = load_test_image
     names = ['SEM_test_%s.png' % x for x in ('nosmooth', 'smooth', 'noise')]
-    return map(load_test_image, names)
+    return [load_test_image(n, crop=crop) for n in names]

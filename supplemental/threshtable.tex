@@ -1,0 +1,75 @@
+\documentclass{article}
+
+%\renewcommand{\thesection}{\Roman{section}} 
+\usepackage{soul} % for commands \st for strikethrough text
+\usepackage[options]{natbib}
+\usepackage[labelformat=empty]{caption}
+
+
+\makeatletter
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{tabularx,ragged2e,booktabs,caption}
+\newcolumntype{C}[1]{>{\Centering}m{#1}}
+\renewcommand\tabularxcolumn[1]{C{#1}}
+
+% For color tables
+\newcommand{\best}[1]{{\bf\color{blue}#1}}
+\newcommand{\worse}[1]{{\bf\color{red}#1}}
+\newcommand{\good}[1]{{\color{cyan}#1}}
+\newcommand{\bad}[1]{{\color{magenta}#1}}
+
+
+%%% IMPORTS %%%
+\input{miscellaneous/imports.tex}
+%%% INPUT SEVERAL COMMANDS FROM miscellaneous/commands.tex
+\input{miscellaneous/commands.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% BEGIN DOCUMENT  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%   
+
+\begin{document}
+\noindent
+
+\begin{center}
+
+\includegraphics[width=0.4\textwidth]{gwulogo}~\\[1cm]
+
+\textsc{\LARGE The George Washington University\vspace{.2cm}
+Physics Department}\\[.4cm]
+
+{\large \today}
+\vspace{.5cm}
+
+\hrule \vspace{.4cm}
+{ \huge \bfseries  
+
+%%% TITLE %%%%
+Imaging Guide Part 1: Supplemental Table 1
+
+\vspace{0.2cm} }
+\hrule \vspace{1.5cm}
+
+\end{center}
+
+
+\input{autothreshtable.tex}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% END DOCUMENT    %%%
+%%%%%%%%%%%%%%%%%%%%%%%%   
+\newpage
+\addcontentsline{toc}{section}{References}
+\bibliographystyle{plain}
+{\footnotesize\bibliography{../../../Mendeley/Bibtex/library}}  %NO .bib
+% http://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#BibTeX
+
+\end{document}
+

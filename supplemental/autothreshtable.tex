@@ -1,0 +1,51 @@
+
+\subsection{Rank of Auto Threshold Methods in ImageJ (Based on inlens, contrast, nice image)}
+
+We tested all auto threshold methods provided by ImageJ on different SEM images of nanoparticles, including nice, uneven contrast and inlens images. The results suggest that \best{Local Otsu} is the \best{best} choise. Meanwhile, \good{Local Bersen} and \good{Local MidGrey} are alternative options, which are working \good{good}.\\
+
+It is also important to avoid using \worse{Local Median}, \worse{Local Phansalker}, \worse{Local Sauvola}, \worse{Global MinError(I)} and \worse{Global Percentitle}. They can not give resonable threshold when analyze SEM images of nanopartilces. \\
+
+By analyzing the thresholded images carefully,  we summize the effectiveness of these auto methods in the following tables, including 9 local methods and 16 global ones.\\
+
+
+\newcolumntype{C}[1]{%
+ >{\vbox to 5ex\bgroup\vfill\centering}%
+ p{#1}%
+ <{\egroup}}  
+
+\begin{minipage}{\linewidth}
+\centering
+\captionof{table}{\ttfamily{Rank of ImageJ \textbf{Local} Auto Threshold Methods (\hdir{./NOTEBOOKS-ANALYSIS/img_autoadjust/}{Open directory})}}
+\begin{tabular}{|c | c | C{4cm} | C{4cm} |} 
+ \hline 
+ \textbf{Local Methods} &  \textbf{Nice images} &  \textbf{Uneven contrast images} &  \textbf{Low res Inlens images}\tabularnewline \hline
+ Otsu & \best{Best} & \best{Best}  & {\bad{Bad}\\ But close to get clusters}\tabularnewline \hline  
+ \pbox{20cm}{Bersen \\ MidGrey}& \best{Best} & \good{Good} & {\bad{Bad}\\ Fail to draw out clusters}\tabularnewline \hline 
+ Niblack & \pbox{20cm}{\good{Good}\\A little noisy }  & \pbox{20cm}{\good{Good}} & {\worse{Worse}\\Poor on the whole image}\tabularnewline \hline
+ Mean & \pbox{20cm}{\bad{Bad}\\Wrong particle size\\Too large} & {\bad{Bad}\\ Poor on the whole image} & {\worse{Worse}\\Poor on the whole image}\tabularnewline \hline  
+ Contrast & \best{Best} &{\worse{Worse}\\Poor on the brighter part} & {\worse{Worse}\\Poor on the whole image}\tabularnewline \hline 
+ \pbox{20cm}{Median\\Phamsalker\\Sauvola} & \multicolumn{2}{c}{ \worse{Do not use them.}} & {\worse{Worse}}\tabularnewline \hline 
+\end{tabular}    
+\end{minipage}
+
+\bigskip
+\begin{minipage}{\linewidth}
+\centering
+\captionof{table}{\ttfamily{Rank of ImageJ \textbf{Global} Auto Threshold Methods}  (\hdir{./NOTEBOOKS-ANALYSIS/img_autoadjust/}{Open directory})}
+\begin{tabular}{|c | c | C{4cm} | C{4cm} |} 
+ \hline 
+  \textbf{Global Methods} &  \textbf{Nice images} &  \textbf{Uneven contrast images} &  \textbf{Low res inlens images}\tabularnewline \hline
+ \pbox{20cm}{Intermodes\\MaxEntropy} & \best{Best} & \pbox{20cm}{\bad{Bad}} & \worse{Worse} \tabularnewline \hline  
+ RenyiEntropy & \best{Best} & {\bad{Bad}\\Poor on the brighter part} & \worse{Worse}\tabularnewline \hline 
+  \pbox{20cm}{Default\\Huang\\Yen} & \best{Best} & {\bad{Bad}\\ Poor on the brighter part} & \worse{Worse} \tabularnewline \hline 
+ \pbox{20cm}{Isodata\\Li\\Moments\\Otsu} & \best{Best} & {\worse{Worse}\\Poor on the brighter part} &\worse{Worse} \tabularnewline \hline 
+ Triangle &  \best{Best} & {\worse{Worse}\\Wrong particle size\\Too small} & \worse{Worse} \tabularnewline \hline 
+ Mean & \pbox{20cm}{\worse{Worse}\\Wrong particle size\\Too Large} & {\worse{Worse}\\Wrong particle size\\Too small}  & \worse{Worse} \tabularnewline \hline 
+ Minimum & \pbox{20cm}{\worse{Worse}\\Wrong particle size\\Too small}  & {\worse{Worse}\\Wrong particle size\\Too small} & \worse{Worse}  \tabularnewline \hline 
+{Shanghag} &\pbox{20cm} {\worse{Worse}\\Wrong particle size\\Too small} &  \worse{Worse} & \worse{Worse} \tabularnewline \hline 
+\pbox{20cm}{ MinError(I)\\Percentile} &  \multicolumn{2}{c}{\worse{Do not use them}} & \worse{Worse} \tabularnewline \hline 
+\end{tabular}   
+\end{minipage}
+
+
+

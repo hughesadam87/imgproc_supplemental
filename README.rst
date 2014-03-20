@@ -24,9 +24,12 @@ Notebooks
 
 - `Digitization Error`_ 
 - `Quantifying Segmentation Errors Between Two Binary Images`_
+- `Comparison of Segmentation Algorithm Performance on Test Images`_
   
 .. _`Digitization Error`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
 .. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
+.. _`Comparison of Segmentation Algorithm Performance on Test Images` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
+
 
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 

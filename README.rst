@@ -38,3 +38,33 @@ Notebooks
 
 .. _`User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
 .. _`Test Data Characterization`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/testdata_characterization.ipynb?create=1
+
+Supplemental
+============
+
+**Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
+
+- 
+-
+-
+
+**Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
+
+-
+-
+-
+
+Figures
+=======
+
+**Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
+
+- 
+-
+-
+
+**Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
+
+-
+-
+-

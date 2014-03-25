@@ -17,8 +17,10 @@ Test Images
 .. _`go to folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
 
 
-Notebooks
-=========
+IPython_ Notebooks
+==================
+
+.. _`IPython` : http://ipython.org/notebook.html
 
 **Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
 
@@ -56,6 +58,8 @@ Supplemental
 
 Figures
 =======
+
+These figures appeared in the manuscripts.
 
 **Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
 

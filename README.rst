@@ -24,14 +24,17 @@ IPython_ Notebooks
 
 **Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
 
-- `Digitization Error`_ 
+- `Measuring Digitization Errors in Small Particles`_ 
 - `Quantifying Segmentation Errors Between Two Binary Images`_
 - `Comparison of Segmentation Algorithm Performance on Test Images`_
-  
+- `Denoising and Filtering`_
+- `Contrast Equilization`_  
+
 .. _`Digitization Error`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
 .. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
 .. _`Comparison of Segmentation Algorithm Performance on Test Images` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
-
+.. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
+.. _`Contrast Equilization` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
 
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 

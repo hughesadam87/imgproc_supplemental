@@ -38,11 +38,14 @@ IPython_ Notebooks
 
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 
-- `User-defined Labels`_
+- `Introduction to User-defined Labels`_
 - `Test Data Characterization`_
+- `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
 
-.. _`User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
+.. _`Introduction to User Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
 .. _`Test Data Characterization`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/testdata_characterization.ipynb?create=1
+.. _``AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
+
 
 Supplemental
 ============

@@ -61,8 +61,8 @@ Supplemental
 
 - Singles, Dimers, Flats and Piles:
    - `Batch-to-batch variability report (pdf)`_ 
-   - Image 1 ``_
-   - Image 2 ``_
+   - (clay nb1?) ``_
+   - (clay nb2?) ``_
 -
 -
 

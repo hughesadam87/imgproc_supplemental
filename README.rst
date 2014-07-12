@@ -41,10 +41,13 @@ IPython_ Notebooks
 - `Introduction to User-defined Labels`_
 - `Test Data Characterization(LINK TO GWUSHARED)`_
 - `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
-
+- Singles, Dimers, Flats and Piles:
+   - Image 1 ``_
+   - Image 2 ``_
 .. _`Introduction to User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
 .. _`Test Data Characterization(LINK TO GWUSHARED)`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/evelyn/Ilastik_object_class_error.ipynb?create=1
 .. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
+
 
 
 Supplemental

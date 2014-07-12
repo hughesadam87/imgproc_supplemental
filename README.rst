@@ -77,13 +77,13 @@ These figures appeared in the manuscripts.
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 
 - Singles, Dimers, Flats and Piles:
-   - `Batch-to-batch variability report`_ 
+   - `Batch-to-batch variability report (pdf)`_ 
    - Image 1 ``_
    - Image 2 ``_
 -
 -
 
-.. _`Batch-to-batch variability report`: http://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
+.. _`Batch-to-batch variability report (pdf)`: http://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
 
 
 

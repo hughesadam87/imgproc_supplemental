@@ -83,7 +83,7 @@ These figures appeared in the manuscripts.
 -
 -
 
-.. _`Batch-to-batch variability report`: : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
+.. _`Batch-to-batch variability report`:https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
 
 
 

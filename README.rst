@@ -51,7 +51,7 @@ Videos
 
 - `Nanoparticle aggregation segmentation and classification in Ilastik`_
 
-.. _`https://www.youtube.com/watch?v=YzylgLw4iTA`
+.. _`Nanoparticle aggregation segmentation and classification in Ilastik` : https://www.youtube.com/watch?v=YzylgLw4iTA`
 
 
 Supplemental

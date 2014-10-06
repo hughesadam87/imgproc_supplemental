@@ -46,6 +46,12 @@ IPython_ Notebooks
 .. _`Test Data Characterization(LINK TO GWUSHARED)`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/evelyn/Ilastik_object_class_error.ipynb?create=1
 .. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 
+Videos
+======
+
+- `Nanoparticle aggregation segmentation and classification in Ilastik`_
+
+.. _`https://www.youtube.com/watch?v=YzylgLw4iTA`
 
 
 Supplemental

@@ -57,13 +57,13 @@ Videos
 SEM Images
 ----------
 
-`Check out the folder`_
+- `Check out the folder`_
 
 These are various SEM gold nanoparticle images taken at GWU by Adam Hughes in Mark Reeves Lab.  They contain clear images, as 
 well as examples of low contrast, contrast gradients, noise, thermal drift and other artifcats.  The images were taken at 30000, 50000 and 100000
 magnificiation. Nanoparticles are roughly 22nm in diameter.
 
-.. _`` : 
+.. _`Check out the folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/SEM_Example_Images
 
 Contamination Examples
 ----------------------
@@ -73,9 +73,9 @@ Check out the `contamination folder`_ or corresponding `contamination collage`_.
 .. _`contamination folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Contamination
 .. _`contamination collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Contamination/contam_collage.png
 
+
 Thresholding
 ------------
-
 
 Fiji/ImageJ Autothresholding plugins
 ....................................

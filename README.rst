@@ -1,7 +1,7 @@
 WELCOME
 ********
 
-Supplemental materials including ipython notebook examples to supplement image processing journals.
+Supplemental materials including ipython notebook examples to supplement manuscript <**LINK TO MANUSCRIPT AFTER PUBLICATION**>.
 
 
 Test Images
@@ -59,7 +59,7 @@ SEM Images
 
 - `Check out the folder`_
 
-These are various SEM gold nanoparticle images taken at GWU by Adam Hughes in Mark Reeves Lab.  They contain clear images, as 
+These are various SEM gold nanoparticle images taken at GWU by Adam Hughes and Evelyn Liu in Mark Reeves Lab.  They contain clear images, as 
 well as examples of low contrast, contrast gradients, noise, thermal drift and other artifcats.  The images were taken at 30000, 50000 and 100000
 magnificiation. Nanoparticles are roughly 22nm in diameter.
 

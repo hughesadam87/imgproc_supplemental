@@ -65,12 +65,18 @@ Check out the `contamination folder`_ or corresponding `contamination collage`_.
 Thresholding
 ------------
 
-This summarizes all of the various thresholding results except for semi-supervised that
-we applied on the test images in the `Test Data Characterization`_ notebook.  Check out
-the `scikit thresholding collage`_ or view the images in `this folder`_.
+Scikit-Image in-depth results
+.............................
+
+An in-depth analysis for the segmentation techniques applied on the test images (does not include Ilastik semi-supervised semi-supervised segmentation)
+is presented in the `Test Data Characterization`_ notebook.  Check out
+the `scikit thresholding collage`_, which shows all of these results in one image, or view the images separately in `this folder`_.
  
 .. _`scikit thresholding collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Threshold_collage/collage_plot.png
 .. _`this folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Threshold_collage
+
+Fiji/ImageJ Autothresholding plugins
+....................................
 
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 

@@ -1,0 +1,1 @@
+We used the "contrast_gradient.tif" SEM image to see how it would be thresholding by Fiji's 16 global and 9 local auto-thresholding methods.  These are shown in the Results folder and annotated for readability.

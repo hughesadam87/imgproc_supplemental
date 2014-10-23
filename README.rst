@@ -54,6 +54,17 @@ Videos
 
 .. _`Nanoparticle aggregation segmentation and classification in Ilastik` : https://www.youtube.com/watch?v=YzylgLw4iTA`
 
+SEM Images
+----------
+
+`Check out the folder`_
+
+These are various SEM gold nanoparticle images taken at GWU by Adam Hughes in Mark Reeves Lab.  They contain clear images, as 
+well as examples of low contrast, contrast gradients, noise, thermal drift and other artifcats.  The images were taken at 30000, 50000 and 100000
+magnificiation. Nanoparticles are roughly 22nm in diameter.
+
+.. _`` : 
+
 Contamination Examples
 ----------------------
 
@@ -65,15 +76,6 @@ Check out the `contamination folder`_ or corresponding `contamination collage`_.
 Thresholding
 ------------
 
-Scikit-Image in-depth results
-.............................
-
-An in-depth analysis for the segmentation techniques applied on the test images (does not include Ilastik semi-supervised semi-supervised segmentation)
-is presented in the `Test Data Characterization`_ notebook.  Check out
-the `scikit thresholding collage`_, which shows all of these results in one image, or view the images separately in `this folder`_.
- 
-.. _`scikit thresholding collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Threshold_collage/collage_plot.png
-.. _`this folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Threshold_collage
 
 Fiji/ImageJ Autothresholding plugins
 ....................................
@@ -84,22 +86,23 @@ Fiji `autothresholding plugin`_.  Check out the results below:
    - `16 global threshold collage.png`_
    - `9 local threshold collage.png`_
 
+Based on these results, we pared down the best segmentation candidates to use on our test images as described in the paper.
+
 .. _`view here` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/contrast_slow_vary.tif
 .. _`autothresholding plugin` : http://fiji.sc/wiki/index.php/Auto_Local_Threshold
-.. _`16 global threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autoglobalthresh.png
-.. _`9 local threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autolocalthresh.png
+.. _`16 global threshold collage.png` : https://raw.github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autoglobalthresh.png
+.. _`9 local threshold collage.png` : https://raw.github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autolocalthresh.png
 
 
-**Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
+Scikit-Image in-depth results
+.............................
 
-- Singles, Dimers, Flats and Piles:
-   - `Batch-to-batch variability report (pdf)`_ 
-   - (clay nb1?) ``_
-   - (clay nb2?) ``_
--
--
-
-.. _`Batch-to-batch variability report (pdf)`: http://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
+An in-depth analysis for the segmentation techniques applied on the test images (does not include Ilastik semi-supervised semi-supervised segmentation)
+is presented in the `Test Data Characterization`_ notebook.  Check out
+the `scikit thresholding collage`_, which shows all of these results in one image, or view the images separately in `this folder`_.
+ 
+.. _`scikit thresholding collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Threshold_collage/collage_plot.png
+.. _`this folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Threshold_collage
 
 
 Figures

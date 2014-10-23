@@ -78,6 +78,18 @@ the `scikit thresholding collage`_, which shows all of these results in one imag
 Fiji/ImageJ Autothresholding plugins
 ....................................
 
+We used an SEM image with a contrast gradient (`view here`_) and tested 9 local and 16 global thresholding algorithms built into the
+Fiji `autothresholding plugin`_.  Check out the results below:
+
+   - `16 global threshold collage.png`_
+   - `9 local threshold collage.png`_
+
+.. _`view here` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/contrast_slow_vary.tif
+.. _`autothresholding plugin` : http://fiji.sc/wiki/index.php/Auto_Local_Threshold
+.. _`16 global threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autoglobalthresh.png
+.. _`9 local threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autolocalthresh.png
+
+
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 
 - Singles, Dimers, Flats and Piles:

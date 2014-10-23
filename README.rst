@@ -5,54 +5,17 @@ Supplemental materials including ipython notebook examples to supplement image p
 
 
 Test Images
-==========
+===========
 
 **Version 1** (`go to folder`_):
 
- - test images were generated_ on 2/26/14.
+ - test images were generated in an IPython notebook on 2/26/14, which can be downloaded `here`_, or can be viewed directly in the `browser here`_.
 
 **Re-running notebook will result in different images** due to the inherent random sampling.
 
-.. _`generated`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
+.. _`here`: https://github.com/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb
+.. _`browser here`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 .. _`go to folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/images/Test_Data/Version1
-
-
-IPython_ Notebooks
-==================
-
-.. _`IPython` : http://ipython.org/notebook.html
-
-**Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
-
-- `Measuring Digitization Errors in Small Particles`_ 
-- `Quantifying Segmentation Errors Between Two Binary Images`_
-- `Comparison of Segmentation Algorithm Performance on Test Images`_
-- `Denoising and Filtering`_
-- `Contrast Equilization`_  
-
-.. _`Measuring Digitization Errors in Small Particles`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
-.. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
-.. _`Comparison of Segmentation Algorithm Performance on Test Images` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
-.. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
-.. _`Contrast Equilization` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
-
-**Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
-
-- `Introduction to User-defined Labels`_
-- `Test Data Characterization(LINK TO GWUSHARED)`_
-- `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
-
-.. _`Introduction to User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
-.. _`Test Data Characterization(LINK TO GWUSHARED)`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/evelyn/Ilastik_object_class_error.ipynb?create=1
-.. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
-
-Videos
-======
-
-- `Nanoparticle aggregation segmentation and classification in Ilastik`_
-
-.. _`Nanoparticle aggregation segmentation and classification in Ilastik` : https://www.youtube.com/watch?v=YzylgLw4iTA`
-
 
 Supplemental
 ============
@@ -74,24 +37,55 @@ Supplemental
 
 .. _`Batch-to-batch variability report (pdf)`: http://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Piles_Flats_ClayAnalysis/7_10_14_BATCHVARIETY.pdf
 
+
+
+IPython_ Notebooks
+==================
+
+.. _`IPython` : http://ipython.org/notebook.html
+
+1. `Measuring Digitization Errors in Small Particles`_ 
+2. `Quantifying Segmentation Errors Between Two Binary Images`_
+3. `Comparison of Segmentation Algorithm Performance on Test Images`_
+4. `Denoising and Filtering`_
+5. `Contrast Equilization`_  
+6. `Introduction to User-defined Labels`_
+7. `Test Data Characterization`_
+8. `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
+9. `Fourier Filtering of Noisy Test Image`_
+
+.. _`Measuring Digitization Errors in Small Particles`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
+.. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
+.. _`Comparison of Segmentation Algorithm Performance on Test Images` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
+.. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
+.. _`Contrast Equilization` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
+.. _`Introduction to User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
+.. _`Test Data Characterization`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/evelyn/Ilastik_object_class_error.ipynb?create=1
+.. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
+.. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
+
+Videos
+======
+
+- `Nanoparticle aggregation segmentation and classification in Ilastik`_
+
+.. _`Nanoparticle aggregation segmentation and classification in Ilastik` : https://www.youtube.com/watch?v=YzylgLw4iTA`
+
+
 Figures
 =======
 
-These figures appeared in the manuscripts.
+Here are full-sized figures appearing in the manuscripts.  (Will be updated in full after acceptance of paper.)  Can host either
+hyperlinks, or raw images which can be saved at full resolution by right-clicking and choosing "save as".
 
-**Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
+Example Fig 1
+-------------
 
-- 
--
--
+.. image:: images/img_and_hist.png
 
-**Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
+Example Fig 2
+-------------
 
--
--
--
-
-
-
+.. image:: images/collage_plot/basins.png
 
 

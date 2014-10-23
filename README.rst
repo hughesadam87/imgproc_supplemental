@@ -43,21 +43,34 @@ IPython_ Notebooks
 .. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 
+
+Supplemental
+============
+
 Videos
-======
+------
 
 - `Nanoparticle aggregation segmentation and classification in Ilastik`_
 
 .. _`Nanoparticle aggregation segmentation and classification in Ilastik` : https://www.youtube.com/watch?v=YzylgLw4iTA`
 
-Supplemental
-============
+Contamination Examples
+----------------------
 
-**Imaging Processing of Nanoparticles: Part 1-- Acquisition and Segmentation**
+Check out the `contamination folder`_ or corresponding `contamination collage`_.
 
-- 
--
--
+.. _`contamination folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Contamination
+.. _`contamination collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Contamination/contam_collage.png
+
+Thresholding
+------------
+
+This summarizes all of the various thresholding results except for semi-supervised that
+we applied on the test images in the `Test Data Characterization`_ notebook.  Check out
+the `scikit thresholding collage`_ or view the images in `this folder`_.
+ 
+.. _`scikit thresholding collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Threshold_collage/collage_plot.png
+.. _`this folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Threshold_collage
 
 **Imaging Processing of Nanoparticles: Part 2-- Characterization and Modeling**
 

@@ -29,7 +29,7 @@ IPython_ Notebooks
 4. `Denoising and Filtering`_
 5. `Contrast Equilization`_  
 6. `Introduction to User-defined Labels`_
-7. `Test Data Characterization`_
+7. `Segmentation Error in Ilastik`_
 8. `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
 9. `Fourier Filtering of Noisy Test Image`_
 
@@ -39,7 +39,7 @@ IPython_ Notebooks
 .. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
 .. _`Contrast Equilization` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
 .. _`Introduction to User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
-.. _`Test Data Characterization`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/evelyn/Ilastik_object_class_error.ipynb?create=1
+.. _`Segmentation Error in Ilastik`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/master/ilastik_segmentation.ipynb?create=1
 .. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 

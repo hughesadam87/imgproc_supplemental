@@ -31,7 +31,7 @@ IPython_ Notebooks
 6. `Contrast Enhancement`_  
 7. `Intro to Particle Classification`_
 8. `Segmentation Error in Ilastik`_
-9. `Classifying Nanoparticles: Ilastik vs. User-defined Labels`_
+9. `Classifying Nanoparticles: Ilastik vs. User Partitioning`_
 10. `Fourier Filtering of Noisy Test Image`_
 
 .. _`Generating Test Images`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
@@ -42,7 +42,7 @@ IPython_ Notebooks
 .. _`Contrast Enhancement` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
 .. _`Intro to Particle Classification`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
 .. _`Segmentation Error in Ilastik`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/master/ilastik_segmentation.ipynb?create=1
-.. _`Classifying Nanoparticles: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
+.. _`Classifying Nanoparticles: Ilastik vs. User Partitioning`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 
 

@@ -26,23 +26,23 @@ IPython_ Notebooks
 1. `Generating Test Images`_
 2. `Measuring Digitization Errors in Small Particles`_ 
 3. `Quantifying Segmentation Errors Between Two Binary Images`_
-4. `Comparison of Segmentation Algorithm Performance on Test Images`_
+4. `Thresholding, Edge, and Seeded Segmentation`_
 5. `Denoising and Filtering`_
-6. `Contrast Equilization`_  
-7. `Introduction to User-defined Labels`_
+6. `Contrast Enhancement`_  
+7. `Intro to Particle Classification`_
 8. `Segmentation Error in Ilastik`_
-9. `AuNP Species Partitions: Ilastik vs. User-defined Labels`_
+9. `Classifying Nanoparticle Species: Ilastik vs. User-defined Labels`_
 10. `Fourier Filtering of Noisy Test Image`_
 
 .. _`Generating Test Images`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 .. _`Measuring Digitization Errors in Small Particles`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
 .. _`Quantifying Segmentation Errors Between Two Binary Images`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/quantify_segment.ipynb?create=1
-.. _`Comparison of Segmentation Algorithm Performance on Test Images` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
+.. _`Thresholding, Edge, Seeding Segmentation` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/thresholding.ipynb?create=1
 .. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
-.. _`Contrast Equilization` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
-.. _`Introduction to User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
+.. _`Contrast Enhancement` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
+.. _`Intro to Particle Classification`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
 .. _`Segmentation Error in Ilastik`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/master/ilastik_segmentation.ipynb?create=1
-.. _`AuNP Species Partitions: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
+.. _`Classifying Nanoparticle Species: Ilastik vs. User-defined Labels`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 
 

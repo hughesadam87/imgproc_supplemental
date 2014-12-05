@@ -4,8 +4,8 @@ WELCOME
 Supplemental materials including ipython notebook examples to supplement manuscript <**LINK TO MANUSCRIPT AFTER PUBLICATION**>.
 
 
-Test Images
-===========
+Artificial/Test Images
+======================
 
 **Version 1** (`go to folder`_):
 

@@ -33,7 +33,10 @@ IPython_ Notebooks
 8. `Segmentation Error in Ilastik`_
 9. `Classifying Nanoparticles: Ilastik vs. User Partitioning`_
 10. `Fourier Filtering of Noisy Test Image`_
-11. `Creating Pie Chart in Fig 12 D`
+
+Extra
+-----
+- `Creating Pie Chart in Fig 12 D`_
 
 .. _`Generating Test Images`: http://nbviewer.ipython.org/github/hugadams/pyparty/blob/master/examples/Notebooks/test_data_V1.ipynb?create=1
 .. _`Measuring Digitization Errors in Small Particles`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/digitization.ipynb?create=1
@@ -42,7 +45,7 @@ IPython_ Notebooks
 .. _`Denoising and Filtering` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/preprocessing.ipynb?create=1
 .. _`Contrast Enhancement` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/histogram_equilization.ipynb?create=1
 .. _`Intro to Particle Classification`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/usermodel.ipynb?create=1
-.. _`Segmentation Error in Ilastik`: http://nbviewer.ipython.org/github/EvelynLiu77/GWU_nb_shared/blob/master/ilastik_segmentation.ipynb?create=1
+.. _`Segmentation Error in Ilastik`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/ilastik_segmentation.ipynb
 .. _`Classifying Nanoparticles: Ilastik vs. User Partitioning`: http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/user_classifier.ipynb?create=1
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 .. _`Creating Pie Chart in Fig 12 D` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/PIECHART.ipynb?create=1

@@ -122,7 +122,7 @@ Full size versions of the figures appearing in the paper are available in the `P
 Example Fig 1
 -------------
 
-.. image:: images/img_and_hist.png
+.. image:: Paper_Images/Figure8a.png
 
 Example Fig 2
 -------------

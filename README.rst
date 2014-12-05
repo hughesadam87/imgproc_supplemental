@@ -104,7 +104,7 @@ Scikit-Image in-depth results
 .............................
 
 An in-depth analysis for the segmentation techniques applied on the test images (does not include Ilastik semi-supervised semi-supervised segmentation)
-is presented in the `Test Data Characterization`_ notebook.  Check out
+is presented in the `Classifying Nanoparticles: Ilastik vs. User Partitioning`_ notebook.  Check out
 the `scikit thresholding collage`_, which shows all of these results in one image, or view the images separately in `this folder`_.
  
 .. _`scikit thresholding collage` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Threshold_collage/collage_plot.png

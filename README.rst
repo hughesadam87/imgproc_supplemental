@@ -96,8 +96,8 @@ Based on these results, we pared down the best segmentation candidates to use on
 
 .. _`view here` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/contrast_slow_vary.tif
 .. _`autothresholding plugin` : http://fiji.sc/wiki/index.php/Auto_Local_Threshold
-.. _`16 global threshold collage.png` : https://raw.github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autoglobalthresh.png
-.. _`9 local threshold collage.png` : https://raw.github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autolocalthresh.png
+.. _`16 global threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autoglobalthresh.png
+.. _`9 local threshold collage.png` : https://github.com/hugadams/imgproc_supplemental/blob/master/supplemental/Fiji_ImageJ/Results/autolocalthresh.png
 
 
 Scikit-Image in-depth results

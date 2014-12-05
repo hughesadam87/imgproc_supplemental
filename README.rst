@@ -50,8 +50,8 @@ Extra
 .. _`Fourier Filtering of Noisy Test Image` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/fourier.ipynb?create=1
 .. _`Creating Pie Chart in Fig 12 D` : http://nbviewer.ipython.org/github/hugadams/imgproc_supplemental/blob/master/Notebooks/PIECHART.ipynb?create=1
 
-Supplemental
-============
+Additional Images and Videos
+============================
 
 Videos
 ------
@@ -111,11 +111,13 @@ the `scikit thresholding collage`_, which shows all of these results in one imag
 .. _`this folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/supplemental/Threshold_collage
 
 
-Figures
-=======
+Paper Figures
+=============
 
-Here are full-sized figures appearing in the manuscripts.  (Will be updated in full after acceptance of paper.)  Can host either
-hyperlinks, or raw images which can be saved at full resolution by right-clicking and choosing "save as".
+Full size versions of the figures appearing in the paper are available in the `Paper Images folder`_.
+
+.. _`Paper Images folder` : https://github.com/hugadams/imgproc_supplemental/tree/master/Paper_Images
+
 
 Example Fig 1
 -------------

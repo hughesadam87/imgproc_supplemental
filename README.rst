@@ -1,7 +1,7 @@
 WELCOME
 ********
 
-Supplemental materials including ipython notebook examples to supplement manuscript <**LINK TO MANUSCRIPT AFTER PUBLICATION**>.
+Supplemental materials including ipython notebook examples to supplement PeerJ Preprint: `https://peerj.com/preprints/671v1/`
 
 
 Artificial/Test Images

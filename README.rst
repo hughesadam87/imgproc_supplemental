@@ -1,7 +1,9 @@
 WELCOME
 ********
 
-Supplemental materials including ipython notebook examples to supplement manuscript <**LINK TO MANUSCRIPT AFTER PUBLICATION**>.
+Supplement materials to PeerJ Preprint: `A workflow for characterizing nanoparticle monolayers for biosensors: Machine learning on real and artificial SEM images`_
+
+.. _`A workflow for characterizing nanoparticle monolayers for biosensors: Machine learning on real and artificial SEM images` : https://peerj.com/preprints/671v1/
 
 
 Artificial/Test Images
